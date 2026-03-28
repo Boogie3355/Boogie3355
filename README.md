@@ -121,17 +121,20 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Boogie3355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats"/>
+<!-- ✅ Alternative 1: github-stats.vercel.app (more reliable) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Boogie3355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats"/>
+
+<!-- ✅ Streak stats (working fine) -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=Boogie3355&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boogie3355&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" alt="Top Languages"/>
+<!-- ✅ Top Languages alternative -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Boogie3355&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" alt="Top Languages"/>
 
 </div>
 
