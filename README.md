@@ -1,22 +1,16 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=R.%20Nandhakishore&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- GitHub Avatar -->
-<img src="https://avatars.githubusercontent.com/u/Boogie3355" 
-     width="150" 
-     style="border-radius: 50%; border: 4px solid #1a1b27; margin-top: -10px;"
-     alt="Nandhakishore's Avatar"/>
+<!-- ✅ FIXED: Using correct numeric user ID 169449727 -->
+<img src="https://avatars.githubusercontent.com/u/169449727" width="150" alt="Nandhakishore's Avatar"/>
 
 <br/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nandhakishore+👋;Full-Stack+Web+Developer+💻;Firebase+%26+Cloud+Enthusiast+☁️;Certified+by+Google+%7C+Microsoft+%7C+IBM+%7C+AWS+🏅;Always+Learning+%7C+Always+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nandhakishore+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Firebase+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Certified+by+Google+%7C+Microsoft+%7C+IBM+%7C+AWS+%F0%9F%8F%85;Always+Learning+%7C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Boogie3355&color=7480ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Boogie3355?style=for-the-badge&color=70a5fd&labelColor=1a1b27)](https://github.com/Boogie3355)
 [![GitHub stars](https://img.shields.io/github/stars/Boogie3355?style=for-the-badge&color=bb9af7&labelColor=1a1b27)](https://github.com/Boogie3355)
@@ -185,23 +179,12 @@
 
 <div align="center">
 
-### 🐍 My Contributions Snake
-
-![Snake animation](https://github.com/Boogie3355/Boogie3355/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 [![](https://visitcount.itsvg.in/api?id=Boogie3355&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <br/>
 
 *⭐ If you like my profile, consider giving my repos a star!*
 
-<!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
